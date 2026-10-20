@@ -1,0 +1,14 @@
+node_modules/
+.git/
+.wrangler/
+worker.mjs
+worker.test.mjs
+package.json
+package-lock.json
+wrangler.jsonc
+schema.sql
+README.md
+.gitignore
+.assetsignore
+.dev.vars
+.env*
